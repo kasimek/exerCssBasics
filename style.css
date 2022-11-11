@@ -101,7 +101,7 @@ a:visited{
 .categories li{
     padding-bottom: 6px;
     border-bottom: dotted 1px #333;
-    list-style-image: url('/csscheatsheet/images/check.png');
+    list-style-image: url('/csscheatsheet/images/check.PNG');
 }
 
 .my-form{
